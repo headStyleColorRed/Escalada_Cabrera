@@ -1,0 +1,564 @@
+{
+	"LaCabrera": {
+		"0": {
+			"nombre": "La Esquinita",
+            "grado": "7a+",
+            "cara": "Sur-Oeste",
+            "largos": "5",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"1": {
+			"nombre": "Variante Izquierda a la Esquinita",
+            "grado": "IV",
+            "cara": "Sur-Oeste",
+            "largos": "3",
+            "metros": "90",
+            "equipacion": "Semiequipada"
+		},
+		"2": {
+			"nombre": "Embrujo",
+            "grado": "6b",
+            "cara": "Sur-Oeste",
+            "largos": "4",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"3": {
+			"nombre": "Directa Lucifer",
+            "grado": "V+",
+            "cara": "Sur-Oeste",
+            "largos": "3",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"4": {
+			"nombre": "Placa maniaca",
+            "grado": "V+",
+            "cara": "Sur-Oeste",
+            "largos": "2",
+            "metros": "80",
+            "equipacion": "Semiequipada"
+		},
+		"5": {
+			"nombre": "Chupacabras",
+            "grado": "6b",
+            "cara": "Sur-Oeste",
+            "largos": "4",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"6": {
+			"nombre": "Pacto con el diablo",
+            "grado": "6c+",
+            "cara": "Sur-Oeste",
+            "largos": "6",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"7": {
+			"nombre": "La cola del diablo",
+            "grado": "6a+",
+            "cara": "Sur-Oeste",
+            "largos": "1",
+            "metros": "50",
+            "equipacion": "Semiequipada"
+		},
+		"8": {
+			"nombre": "La canal",
+            "grado": "III",
+            "cara": "Sur-Oeste",
+            "largos": "1",
+            "metros": "40",
+            "equipacion": "Limpia"
+		},
+		"9": {
+			"nombre": "La conexión",
+            "grado": "V",
+            "cara": "Sur-Oeste",
+            "largos": "2",
+            "metros": "50",
+            "equipacion": "Semiequipada"
+		},
+		"10": {
+			"nombre": "El pasadizo",
+            "grado": "V+/Ae (6c)",
+            "cara": "Sur-Oeste",
+            "largos": "6",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"11": {
+			"nombre": "La fisura del lirón",
+            "grado": "7a",
+            "cara": "Sur-Oeste",
+            "largos": "1",
+            "metros": "50",
+            "equipacion": "Limpia"
+		},
+		"12": {
+			"nombre": "Paloma",
+            "grado": "VI+",
+            "cara": "Sur-Oeste",
+            "largos": "5",
+            "metros": "150",
+            "equipacion": "Limpia"
+		},
+		"13": {
+			"nombre": "La rajada",
+            "grado": "6b+",
+            "cara": "Sur-Oeste",
+            "largos": "2",
+            "metros": "70",
+            "equipacion": "Semiequipada"
+		},
+		"14": {
+			"nombre": "Murciélagos",
+            "grado": "6c+/Ae",
+            "cara": "Sur-Oeste",
+            "largos": "6",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"15": {
+			"nombre": "Diosa Ra",
+            "grado": "6c+",
+            "cara": "Sur-Oeste",
+            "largos": "1",
+            "metros": "40",
+            "equipacion": "Limpia"
+		},
+		"16": {
+			"nombre": "Cara oculta de la Luna",
+            "grado": "6b/A1+",
+            "cara": "Sur",
+            "largos": "5",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"17": {
+			"nombre": "Benito Borrero",
+            "grado": "6a/Ae (6c+)",
+            "cara": "Sur",
+            "largos": "3",
+            "metros": "110",
+            "equipacion": "Semiequipada"
+		},
+		"18": {
+			"nombre": "Borrero-Ortiz",
+            "grado": "V+",
+            "cara": "Sur",
+            "largos": "6",
+            "metros": "150",
+            "equipacion": "Limpia"
+		},
+		"19": {
+			"nombre": "En la variante está el gusto",
+            "grado": "6c",
+            "cara": "Sur",
+            "largos": "1",
+            "metros": "50",
+            "equipacion": "Equipada"
+		},
+		"20": {
+			"nombre": "Cabrero-Capri",
+            "grado": "6b/Ae",
+            "cara": "Sur",
+            "largos": "5",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"21": {
+			"nombre": "Cobo",
+            "grado": "6b",
+            "cara": "Sur",
+            "largos": "3",
+            "metros": "150",
+            "equipacion": "Limpia"
+		},
+		"22": {
+			"nombre": "Psicosis",
+            "grado": "6c/A0 (7b)",
+            "cara": "Sur",
+            "largos": "3",
+            "metros": "120",
+            "equipacion": "Equipada"
+		},
+		"23": {
+			"nombre": "Brothers",
+            "grado": "V+",
+            "cara": "Sur",
+            "largos": "3",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"24": {
+			"nombre": "La Guarra",
+            "grado": "V",
+            "cara": "Sur",
+            "largos": "4",
+            "metros": "150",
+            "equipacion": "Limpia"
+		},
+		"25": {
+			"nombre": "Chichi Chachi, Bingo Chungo",
+            "grado": "6c/Ae (7a)",
+            "cara": "Sur",
+            "largos": "4",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"26": {
+			"nombre": "Julito",
+            "grado": "6a",
+            "cara": "Sur",
+            "largos": "4",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"27": {
+			"nombre": "Julito (variante)",
+            "grado": "V+",
+            "cara": "Sur",
+            "largos": "1",
+            "metros": "50",
+            "equipacion": "Semiequipada"
+		},
+		"28": {
+			"nombre": "Harakiri",
+            "grado": "V+",
+            "cara": "Sur",
+            "largos": "4",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"29": {
+			"nombre": "Casera atómica",
+            "grado": "6b",
+            "cara": "Sur",
+            "largos": "4",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"30": {
+			"nombre": "Rivas-Acuña",
+            "grado": "V",
+            "cara": "Sur",
+            "largos": "5",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"31": {
+			"nombre": "Titi (Guirles-Campos),",
+            "grado": "6b/Ae",
+            "cara": "Sur",
+            "largos": "5",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"32": {
+			"nombre": "Raquel",
+            "grado": "V+",
+            "cara": "Sur",
+            "largos": "1",
+            "metros": "40",
+            "equipacion": "Limpia"
+		},
+		"33": {
+			"nombre": "Thanatos",
+            "grado": "6a+/Ae",
+            "cara": "Sur",
+            "largos": "4",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"34": {
+			"nombre": "Doble Cero",
+            "grado": "6b",
+            "cara": "Sur",
+            "largos": "4",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"35": {
+			"nombre": "La última oportunidad",
+            "grado": "V+",
+            "cara": "Sur",
+            "largos": "3",
+            "metros": "110",
+            "equipacion": "Semiequipada"
+		},
+		"36": {
+			"nombre": "Piloto",
+            "grado": "IV/A0 (6a)",
+            "cara": "Sur",
+            "largos": "5",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"37": {
+			"nombre": "Directa Harakiri",
+            "grado": "V+",
+            "cara": "Sur",
+            "largos": "1",
+            "metros": "50",
+            "equipacion": "Limpia"
+		},
+		"38": {
+			"nombre": "Lola Flores",
+            "grado": "6b",
+            "cara": "Sur",
+            "largos": "5",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"39": {
+			"nombre": "Senda",
+            "grado": "V+",
+            "cara": "Sur",
+            "largos": "5",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"40": {
+			"nombre": "Unicornio azul",
+            "grado": "V+/A0 (6c+)",
+            "cara": "Sur",
+            "largos": "4",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"41": {
+			"nombre": "Chocolate",
+            "grado": "V+",
+            "cara": "Sur",
+            "largos": "4",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"42": {
+			"nombre": "Trompeta o José Álvarez",
+            "grado": "6b",
+            "cara": "Sur",
+            "largos": "5",
+            "metros": "150",
+            "equipacion": "Equipada"
+		},
+		"43": {
+			"nombre": "Licencia para matar",
+            "grado": "6c",
+            "cara": "Sur",
+            "largos": "1",
+            "metros": "50",
+            "equipacion": "Equipada"
+		},
+		"44": {
+			"nombre": "Machaquito Pastor",
+            "grado": "6c+",
+            "cara": "Sur",
+            "largos": "4",
+            "metros": "120",
+            "equipacion": "Equipada"
+		},
+		"45": {
+			"nombre": "Esteban Altieri",
+            "grado": "6a+",
+            "cara": "Sur",
+            "largos": "4",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"46": {
+			"nombre": "Jose Manuel Alaiz",
+            "grado": "6b",
+            "cara": "Sur",
+            "largos": "4",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"47": {
+			"nombre": "Diedro Loquillo",
+            "grado": "6a+",
+            "cara": "Sur",
+            "largos": "3",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"48": {
+			"nombre": "Los Pioneros",
+            "grado": "6b/Ae",
+            "cara": "Sur",
+            "largos": "5",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"49": {
+			"nombre": "Brasas",
+            "grado": "V+",
+            "cara": "Sur",
+            "largos": "1",
+            "metros": "45",
+            "equipacion": "Limpia"
+		},
+		"50": {
+			"nombre": "Claveles Rojos",
+            "grado": "V+",
+            "cara": "Sur",
+            "largos": "6",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"51": {
+			"nombre": "Espolón de Manolín",
+            "grado": "V+",
+            "cara": "Sur",
+            "largos": "6",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"52": {
+			"nombre": "Evolution Rock",
+            "grado": "6b+/A0 (7b+)",
+            "cara": "Sur",
+            "largos": "5",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"53": {
+			"nombre": "Salamandra",
+            "grado": "6b",
+            "cara": "Sur",
+            "largos": "5",
+            "metros": "130",
+            "equipacion": "Semiequipada"
+		},
+		"54": {
+			"nombre": "Cepillo Free",
+            "grado": "6c",
+            "cara": "Sur-Este",
+            "largos": "4",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"55": {
+			"nombre": " Peter Pan",
+            "grado": "6b/A0 (7b)",
+            "cara": "Sur-Este",
+            "largos": "4",
+            "metros": "150",
+            "equipacion": "Semiequipada"
+		},
+		"56": {
+			"nombre": "Durruti",
+            "grado": "6a",
+            "cara": "Sur-Este",
+            "largos": "4",
+            "metros": "150",
+            "equipacion": "Equipada"
+		},
+		"57": {
+			"nombre": "Ezequiel-Domingo",
+            "grado": "IV+",
+            "cara": "Sur-Este",
+            "largos": "5",
+            "metros": "150",
+            "equipacion": "Limpia"
+		},
+		"58": {
+			"nombre": "Emilio",
+            "grado": "6a",
+            "cara": "Sur-Este",
+            "largos": "2",
+            "metros": "70",
+            "equipacion": "Semiequipada"
+		},
+		"59": {
+			"nombre": "Pandemonium",
+            "grado": "6a+",
+            "cara": "Sur-Este",
+            "largos": "3",
+            "metros": "110",
+            "equipacion": "Semiequipada"
+		},
+		"60": {
+			"nombre": "Rosario",
+            "grado": "6b",
+            "cara": "Sur-Este",
+            "largos": "3",
+            "metros": "125",
+            "equipacion": "Equipada"
+		},
+		"61": {
+			"nombre": "Fisura Chamonix",
+            "grado": "6ba",
+            "cara": "Sur-Este",
+            "largos": "3",
+            "metros": "125",
+            "equipacion": "Semiequipada"
+		},
+		"62": {
+			"nombre": "Bloodstar",
+            "grado": "6b+",
+            "cara": "Sur-Este",
+            "largos": "1",
+            "metros": "50",
+            "equipacion": "Equipada"
+		},
+		"63": {
+			"nombre": "18 los ojos",
+            "grado": "6c",
+            "cara": "Sur-Este",
+            "largos": "3",
+            "metros": "125",
+            "equipacion": "Semiequipada"
+		},
+		"64": {
+			"nombre": "G.A.M. Peñalara",
+            "grado": "6b+",
+            "cara": "Sur-Este",
+            "largos": "2",
+            "metros": "140",
+            "equipacion": "Semiequipada"
+		},
+		"65": {
+			"nombre": "Daniel Jiménez",
+            "grado": "6a",
+            "cara": "Sur-Este",
+            "largos": "3",
+            "metros": "140",
+            "equipacion": "Semiequipada"
+		},
+		"66": {
+			"nombre": "Ángela-Elena",
+            "grado": "6b",
+            "cara": "Sur-Este",
+            "largos": "3",
+            "metros": "140",
+            "equipacion": "Semiequipada"
+		},
+		"67": {
+			"nombre": "Bavaresa Blanca",
+            "grado": "V+",
+            "cara": "Sur-Este",
+            "largos": "3",
+            "metros": "140",
+            "equipacion": "Semiequipada"
+		},
+		"68": {
+			"nombre": "López-Muñoz",
+            "grado": "IV+",
+            "cara": "Sur-Este",
+            "largos": "3",
+            "metros": "140",
+            "equipacion": "Libre"
+		},
+		"69": {
+			"nombre": "Diedro Ticupa",
+            "grado": "6a",
+            "cara": "Sur-Este",
+            "largos": "3",
+            "metros": "140",
+            "equipacion": "Libre"
+		}
+	}
+}
