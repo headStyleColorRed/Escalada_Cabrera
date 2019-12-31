@@ -1,0 +1,22 @@
+.searchBar_wrapper{
+	justify-self: center;
+	width: 80vw;
+	height: 7vh;
+	background-color: white;
+	border-radius: 5px;
+	border: 1px solid #FF7D49;
+	display: grid;
+	grid-template-columns: 0.5fr 1fr;
+}
+
+.searchBar_lupa, .searchBar_input{
+	justify-self: center;
+	align-self: center;
+}
+
+.searchBar_input input{
+	border: none;
+}
+.searchBar_input input:focus{
+	outline: none;
+}

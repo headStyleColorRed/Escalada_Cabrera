@@ -1,11 +1,19 @@
 import React from "react"
-import { Button } from "reactstrap"
+import Home from "./routes/Home.js"
+import GradoTemplate from "./routes/GradoTemplate.js"
+import {
+	BrowserRouter as Router,
+	Route,
+  } from "react-router-dom";
 
  class App extends React.Component{
 	render() {
 		return (
 			<div>
-				<h1>Hola</h1>
+				<Router>
+					<Route path="/home" component={Home}/>
+					<Route path="/grades" component={GradoTemplate}/>
+				</Router>
 			</div>
 		)
 	}

@@ -64,14 +64,6 @@
             "metros": "50",
             "equipacion": "Semiequipada"
 		},
-		"8": {
-			"nombre": "La canal",
-            "grado": "III",
-            "cara": "Sur-Oeste",
-            "largos": "1",
-            "metros": "40",
-            "equipacion": "Limpia"
-		},
 		"9": {
 			"nombre": "La conexión",
             "grado": "V",
