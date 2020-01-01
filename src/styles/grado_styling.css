@@ -1,7 +1,10 @@
 .gradoTemplate_wrapper{
-	min-height: 100vh;
-	background-color: rgb(59, 59, 59);
+	height: 100vh;
+	background-image: url("../data/landscape.jpg");
+	background-size: 600%;
+	background-position: bottom;
 	color: whitesmoke;
+	overflow-x: auto;
 }
 
 .gradoTemplate_wrapper h3{

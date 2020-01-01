@@ -1,14 +1,9 @@
-
+import { withRouter} from "react-router-dom"
 //AiOutlineMenu
 import React, { useState } from 'react';
-import { AiOutlineMenu } from "react-icons/ai"
+import { TiArrowBack } from "react-icons/ti"
 import {
-	Collapse,
 	Navbar,
-	NavbarBrand,
-	Nav,
-	NavItem,
-	NavLink,
 } from 'reactstrap';
 
 const MyNavbar = (props) => {
@@ -20,21 +15,10 @@ const MyNavbar = (props) => {
 	return (
 		<div>
 			<Navbar  expand="md" fixed="top">
-				<AiOutlineMenu color="white" onClick={toggle} />
-				<NavbarBrand style={{color: "white"}} href="/"  >Libria</NavbarBrand>
-				<Collapse isOpen={isOpen} navbar>
-					<Nav className="mr-auto" navbar>
-						<NavItem>
-							<NavLink>Shelves</NavLink>
-						</NavItem>
-						<NavItem>
-							<NavLink >Reception</NavLink>
-						</NavItem>
-					</Nav>
-				</Collapse>
+				<TiArrowBack color="white"onClick={() => { props.history.push("/home")}} fontSize="1.5rem" />
 			</Navbar>
 		</div>
 	);
 }
 
-export default MyNavbar;
+export default withRouter(MyNavbar);
