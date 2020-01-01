@@ -2,7 +2,7 @@
 	"LaCabrera": {
 		"0": {
 			"nombre": "La Esquinita",
-            "grado": "7a+",
+            "grado": "A0/6a (7a)",
             "cara": "Sur-Oeste",
             "largos": "5",
             "metros": "150",
@@ -10,43 +10,28 @@
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+                "0": "El primer largo, una placa de grano fino, sin duda el más complicado. Se puede hacer en A0 y a los pocos metros nos deja en una reunión con orientación a izquierdas.",
+                "1": "El segundo largo es un descanso del primero y nos acerca por una placa no muy complicada hasta la segunda reunión a los pies de un árbol.",
+                "2": "Este tercer largo de transición tiene casi 60 metros y, si bien no es complicado, se disfruta de la fácil escalada y permite echar un vistazo al panorama.",
+                "3": "Este cuarto largo también tiene telita al pasar un bloque fisurado y desplomado que se pasa en artificial.",
+                "4": "Largo final por un diedro que nos deja en la cumbre. La reunión se monta laceando uno de los númerosos bloques de alrededor."
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), aliens cintas y estribos. Todas las reuniones están montadas, salvo la última."
 		},
 		"1": {
 			"nombre": "Variante Izquierda a la Esquinita",
             "grado": "IV",
             "cara": "Sur-Oeste",
-            "largos": "3",
+            "largos": "2",
             "metros": "90",
             "equipacion": "Semiequipada",
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
-		},
-		"2": {
-			"nombre": "Embrujo",
-            "grado": "6b",
-            "cara": "Sur-Oeste",
-            "largos": "4",
-            "metros": "150",
-            "equipacion": "Semiequipada",
-            "estrellas": "1",
-            "crokis": "../data/vias/ezequiel.jpg",
-            "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+                "0": "Este largo sale desde la tercera reunión de la vía La Esquinita y acaba en una reunión que tendremos que buscar con orientación a izquierdas.",
+                "1": "Este largo final acaba llegando a una serie de bloques donde ya termina nuestra escalada. Estos dos largos se pueden empalmar en uno sólo ya que la dificultad y el roce no nos impedirán disfrutar de estos dos largos."
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), aliens cintas y estribos. Todas las reuniones están montadas, salvo la última."
 		},
 		"3": {
 			"nombre": "Directa Lucifer",
@@ -58,27 +43,11 @@
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
-		},
-		"4": {
-			"nombre": "Placa maniaca",
-            "grado": "V+",
-            "cara": "Sur-Oeste",
-            "largos": "2",
-            "metros": "80",
-            "equipacion": "Semiequipada",
-            "estrellas": "1",
-            "crokis": "../data/vias/ezequiel.jpg",
-            "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+                "0": "Es una variante que parte desde el segundo largo de Pacto con el Diablo y sube hasta la Punta Lucifer. La primera reunión nos deja debajo de un techito.",
+                "1": "Saldremos hacia la izquierda para sortear este techo para situarnos encima de la punta Lucifer.",
+                "2": "Largo final  que nos deja en la cumbre. La reunión se monta laceando uno de los númerosos bloques de alrededor."
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"5": {
 			"nombre": "Chupacabras",
@@ -90,15 +59,16 @@
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+                "0": "La mayor dificultad de esta vía la encontramos a la mitad del primer largo en varios pasos de placa y fisura bien protegidos",
+                "1": "Salimos de la primera reunión por una placa que nos acercará a un bloque de V+ que, una vez sobrepasado, nos deja en una amplia repisa donde montaremos la segunda reunión.",
+                "2": "Aquí tenemos una placa que a medida que nos acercamos se va empinando y pasamos otro tramo de 6b donde la altura es un plus que sin más dilación siguiendo unas setas nos dejará en la tercera reu.",
+                "3": "Este último largo es un V+ mantenido bastante vertical que nos dejará en la cumbre"
+            },
+            "material": "Un juego de Friends (hasta el 3 de Camalot), aliens, cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"6": {
 			"nombre": "Pacto con el diablo",
-            "grado": "6c+",
+            "grado": "V+/A1 (7a)",
             "cara": "Sur-Oeste",
             "largos": "6",
             "metros": "150",
@@ -106,43 +76,43 @@
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+                "0": "Este largo entretenido tiene unos pasos interesantes y una fisura a derechas con autoaseguramiento que nos dejará en una repisita con la reunión en la pared derecha.",
+                "1": "Un largo cuasi que recorre el lomo de la roca hasta llegar a la repisa.",
+                "2": "Largo de transición para que no haya roce de cuerda al iniciar el cuarto largo.",
+                "3": "Bonito diedro asequible que nos dejará empotrar alguna mano.",
+                "4": "Último y más complicado largo con un paso que se puede hacer en artificial A1 si no se quiere hacer el 7a en libre. Otra opción para subir a la Punta Lucifer sería a través de la Directa Lucifer, de menos difcultad.",
+                "5": "Largo final  que nos deja en la cumbre. La reunión se monta laceando uno de los númerosos bloques de alrededor."
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), aliens cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"7": {
-			"nombre": "La cola del diablo",
-            "grado": "6a+",
-            "cara": "Sur-Oeste",
-            "largos": "1",
-            "metros": "50",
-            "equipacion": "Semiequipada",
-            "estrellas": "1",
-            "crokis": "../data/vias/ezequiel.jpg",
-            "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
-		},
-		"9": {
-			"nombre": "La conexión",
-            "grado": "V",
+			"nombre": "Placa maniaca",
+            "grado": "V+",
             "cara": "Sur-Oeste",
             "largos": "2",
-            "metros": "50",
+            "metros": "75",
             "equipacion": "Semiequipada",
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+                "0": "Delicada placa de agarres netos que recorremos primero a la derecha de las chapas para luego movernos a la izquierda.",
+                "1": "Largo de III que nos deja en la cumbre."
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), aliens cintas y cordinos. Todas las reuniones están montadas, salvo la última."
+		},
+		"9": {
+			"nombre": "Variante El pasadizo",
+            "grado": "IV+",
+            "cara": "Sur-Oeste",
+            "largos": "1",
+            "metros": "150",
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "Variante a la entrada de 6c de la vía El Pasadizo. Discurre por una canal que nos deja en una repisa donde nos encontramos con la reunión para continuar el trazado original."
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"10": {
 			"nombre": "El pasadizo",
@@ -154,59 +124,31 @@
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
-		},
-		"11": {
-			"nombre": "La fisura del lirón",
-            "grado": "7a",
-            "cara": "Sur-Oeste",
-            "largos": "1",
-            "metros": "50",
-            "equipacion": "Limpia",
-            "estrellas": "1",
-            "crokis": "../data/vias/ezequiel.jpg",
-            "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+                "0": "Primer largo duro pero bien protegido que uno puede saltarse yendo por la variante a su izquierda. Empieza por una fisura",
+                "1": "Entretenido largo que sortea la vegetación lateral 'saltando' de piedra en piedra.",
+                "2": "Entretenido largo que termina con un desplome que nos deja en la reunión",
+                "3": "A continuación sigue la hendidura en la pared con orientación a izquierdas para llegar a la penúltima reunión.",
+                "4": "Último largo con fisura intermedia de V+ que desemboca en una chimenea final. A partir de ahí ya nos encaramos hacia arriba para llegar a la última reunión."
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), aliens, cintas y cordinos. Todas las reuniones están montadas."
 		},
 		"12": {
 			"nombre": "Paloma",
-            "grado": "VI+",
+            "grado": "IV+",
             "cara": "Sur-Oeste",
             "largos": "5",
             "metros": "150",
-            "equipacion": "Limpia",
-            "estrellas": "1",
-            "crokis": "../data/vias/ezequiel.jpg",
-            "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
-		},
-		"13": {
-			"nombre": "La rajada",
-            "grado": "6b+",
-            "cara": "Sur-Oeste",
-            "largos": "2",
-            "metros": "70",
             "equipacion": "Semiequipada",
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+                "0": "Se empieza con una travesía sobre una fisura/repisa que nos deja enfrente de una canal que acaba al lado de una encina. Allí montamos reunión. A la derecha del canalizo podremos chapar si nos estiramos un poco.",
+                "1": "Sale desde la encina y tras atravesar unos bloques a mano derecha, nos metemos en una fisura ancha que desemboca en la segunda reunión.",
+                "2": "Un largo de transición que nos deja en la gran repisa. Desde aquí haremos una travesía a la izquierda para poder entrar al siguiente largo sin roce de cuerda.",
+                "3": "Este largo, dependiende del musgo que haya, se hace o por la placa o por la canal de la derecha",
+                "4": "El quinto y último largo ya se muestra más complicado. El itinerario original va por la sucesión de fisuras/bloques/canales que hay por la izquierda."
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"14": {
 			"nombre": "Murciélagos",
@@ -218,11 +160,12 @@
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "0": "Via que Wimbor abrió pensando en la gente que disfruta de la mezcla de clásica y artifical en una misma vía. ",
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"15": {
 			"nombre": "Diosa Ra",
@@ -238,7 +181,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"16": {
 			"nombre": "Cara oculta de la Luna",
@@ -254,7 +198,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"17": {
 			"nombre": "Benito Borrero",
@@ -270,7 +215,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"18": {
 			"nombre": "Borrero-Ortiz",
@@ -286,7 +232,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"19": {
 			"nombre": "En la variante está el gusto",
@@ -302,7 +249,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"20": {
 			"nombre": "Cabrero-Capri",
@@ -318,7 +266,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"21": {
 			"nombre": "Cobo",
@@ -334,7 +283,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"22": {
 			"nombre": "Psicosis",
@@ -350,7 +300,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"23": {
 			"nombre": "Brothers",
@@ -366,7 +317,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"24": {
 			"nombre": "La Guarra",
@@ -382,7 +334,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"25": {
 			"nombre": "Chichi Chachi, Bingo Chungo",
@@ -398,7 +351,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"26": {
 			"nombre": "Julito",
@@ -414,7 +368,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"27": {
 			"nombre": "Julito (variante)",
@@ -430,7 +385,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"28": {
 			"nombre": "Harakiri",
@@ -446,7 +402,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"29": {
 			"nombre": "Casera atómica",
@@ -462,7 +419,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"30": {
 			"nombre": "Rivas-Acuña",
@@ -478,7 +436,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"31": {
 			"nombre": "Titi (Guirles-Campos),",
@@ -494,7 +453,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"32": {
 			"nombre": "Raquel",
@@ -510,7 +470,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"33": {
 			"nombre": "Thanatos",
@@ -526,7 +487,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"34": {
 			"nombre": "Doble Cero",
@@ -542,7 +504,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"35": {
 			"nombre": "La última oportunidad",
@@ -558,7 +521,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"36": {
 			"nombre": "Piloto",
@@ -574,7 +538,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"37": {
 			"nombre": "Directa Harakiri",
@@ -590,7 +555,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"38": {
 			"nombre": "Lola Flores",
@@ -606,7 +572,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"39": {
 			"nombre": "Senda",
@@ -622,7 +589,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"40": {
 			"nombre": "Unicornio azul",
@@ -638,7 +606,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"41": {
 			"nombre": "Chocolate",
@@ -654,7 +623,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"42": {
 			"nombre": "Trompeta o José Álvarez",
@@ -670,7 +640,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"43": {
 			"nombre": "Licencia para matar",
@@ -686,7 +657,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"44": {
 			"nombre": "Machaquito Pastor",
@@ -702,7 +674,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"45": {
 			"nombre": "Esteban Altieri",
@@ -718,7 +691,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"46": {
 			"nombre": "Jose Manuel Alaiz",
@@ -734,7 +708,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"47": {
 			"nombre": "Diedro Loquillo",
@@ -750,7 +725,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"48": {
 			"nombre": "Los Pioneros",
@@ -766,7 +742,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"49": {
 			"nombre": "Brasas",
@@ -782,7 +759,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"50": {
 			"nombre": "Claveles Rojos",
@@ -798,7 +776,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"51": {
 			"nombre": "Espolón de Manolín",
@@ -814,7 +793,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"52": {
 			"nombre": "Evolution Rock",
@@ -830,7 +810,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"53": {
 			"nombre": "Salamandra",
@@ -846,7 +827,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"54": {
 			"nombre": "Cepillo Free",
@@ -862,7 +844,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"55": {
 			"nombre": " Peter Pan",
@@ -878,7 +861,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"56": {
 			"nombre": "Durruti",
@@ -894,23 +878,26 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"57": {
-			"nombre": "Ezequiel-Domingo",
+			"nombre": "Ezequiel",
             "grado": "IV+",
             "cara": "Sur-Este",
             "largos": "5",
-            "metros": "150",
+            "metros": "140",
             "equipacion": "Limpia",
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+                "0": "El primer largo comienza por un diedro fisurado escalando en ángulo a izquierdas hasta llegar a la primera reunión.",
+                "1": "Continúa la escalada subiendo por una veta de esquistos que se vuelve más difícil de proteger según nos acercamos a la base de la cueva.",
+                "2": "Este tercer largo es el más particular al hacernos pasar a través de una cueva de roca pulida y oscura con una salida algo arrastrada a los pies de la reunión",
+                "3": "Se sale por un diedro de bloques empotrados para luego salir a una placa con setas más aérea. El largo continúa por unas fisuras que nos acercan con ángulo a derechas a la cima",
+                "4": "Último largo de cortesía entre varios bloques. La reunión se monta laceando uno de los númerosos bloques de la cima"
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"58": {
 			"nombre": "Emilio",
@@ -926,7 +913,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"59": {
 			"nombre": "Pandemonium",
@@ -942,7 +930,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"60": {
 			"nombre": "Rosario",
@@ -958,7 +947,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"61": {
 			"nombre": "Fisura Chamonix",
@@ -974,7 +964,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"62": {
 			"nombre": "Bloodstar",
@@ -990,7 +981,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"63": {
 			"nombre": "18 los ojos",
@@ -1006,7 +998,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"64": {
 			"nombre": "G.A.M. Peñalara",
@@ -1022,7 +1015,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"65": {
 			"nombre": "Daniel Jiménez",
@@ -1038,7 +1032,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"66": {
 			"nombre": "Ángela-Elena",
@@ -1054,7 +1049,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"67": {
 			"nombre": "Bavaresa Blanca",
@@ -1070,7 +1066,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"68": {
 			"nombre": "López-Muñoz",
@@ -1086,7 +1083,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"69": {
 			"nombre": "Diedro Ticupa",
@@ -1102,7 +1100,8 @@
                 "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
                 "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
                 "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            }
+            },
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		}
 	}
 }
