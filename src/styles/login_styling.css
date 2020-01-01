@@ -1,0 +1,110 @@
+.login_main{
+	background-image: url("../data/landscape.jpg");
+	height: 90vh;
+	background-size: 400%;
+	background-position: 68% 40%;
+	position: relative;
+}
+
+.login_main_title{
+	text-align: center;
+	padding-top: 4rem;
+}
+
+.login_main_title h2{
+	font-family: 'Playfair Display', serif;
+	letter-spacing: 2px;
+}
+
+.login_main_form{
+	display: grid;
+	grid-gap: 1rem;
+	padding-top: 18vh;
+}
+
+.login_main_form_user{
+	background-color: rgba(15, 15, 15, 0.726);
+	border-radius: 10px;
+	width: 80vw;
+	justify-self: center;
+	display: grid;
+	grid-template-columns: 0.2fr 1fr;
+}
+
+
+.envelop_icon{
+	font-size: 1.3rem;
+	justify-self: center;
+	align-self: center;
+}
+
+.login_main_form_user_input{
+	border-left: 1px solid #FC6633;
+	margin: 10px 0;
+	padding: 0 1rem;
+	display: grid;
+}
+
+.login_main_form_user_input label{
+	margin-bottom: -2px;
+	font-size: 0.8rem;
+	color: #FC6633;
+}
+
+.login_main_form_user_input input{
+	background-color: rgba(255, 0, 0, 0.014);
+	border: none;
+	font-size: 0.8rem;
+	color: whitesmoke;
+}
+
+.login_main_form_user_input input:focus{
+	outline: none;
+}
+
+.passwordForgot{
+	color: rgb(165, 164, 164);
+	font-size: 0.75rem;
+	text-align: center;
+	margin-top: -0.6rem;
+	margin-left: 50vw;
+}
+
+.account_creation{
+	position: absolute;
+	bottom: 0%;
+	left: 50%;
+	transform: translate(-50%, 0vw);
+	color: whitesmoke;
+	text-align: center;
+	line-height: 0.3rem;
+	font-size: 0.8rem;
+	color: rgb(165, 164, 164);
+}
+
+.create_account{
+	color: #FC6633;
+}
+
+
+
+
+
+
+
+
+
+
+.login_button{
+	background-color: #FC6633;
+	height: 10vh;
+	position: relative;
+}
+
+.login_button p{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: whitesmoke;
+}

@@ -1,0 +1,67 @@
+.gradoTemplate_wrapper{
+	min-height: 100vh;
+	background-color: rgb(59, 59, 59);
+	color: whitesmoke;
+}
+
+.gradoTemplate_wrapper h3{
+	padding: 2rem 0;
+	font-family: 'Gelasio', serif;
+	text-align: center;
+
+}
+
+.via_temp{
+	padding: 0.5rem 2rem;
+	line-height: 0.3rem;
+}
+
+
+.via_temp_top{
+	display: grid;
+	grid-template-columns: 1fr 0.2fr;
+	margin-bottom: -0.5rem;
+}
+
+.via_temp_top_data{
+	display: grid;
+	grid-template-columns: auto 1fr;
+	line-height: 1.4rem;
+}
+
+.via_temp_top_name{
+	color: #FE6B3F;
+	letter-spacing: 1px;
+	max-width: 10rem;
+}
+
+.via_temp_top_grade{
+	margin-left: 1rem;
+	font-size: 0.88rem;
+}
+
+.via_temp_top_stars{
+	justify-self: right;
+}
+
+.via_temp_bottom{
+	font-size: 0.85rem;
+	letter-spacing: 1px;
+}
+
+.via_temp_bottom_orientacion{
+	font-size: 0.75rem;
+	color: rgb(161, 161, 161);
+}
+
+.via_temp_hr{
+	border: 0.2px solid gray;
+}
+
+
+
+
+
+
+
+

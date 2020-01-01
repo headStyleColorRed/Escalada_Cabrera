@@ -6,7 +6,15 @@
             "cara": "Sur-Oeste",
             "largos": "5",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"1": {
 			"nombre": "Variante Izquierda a la Esquinita",
@@ -14,7 +22,15 @@
             "cara": "Sur-Oeste",
             "largos": "3",
             "metros": "90",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"2": {
 			"nombre": "Embrujo",
@@ -22,7 +38,15 @@
             "cara": "Sur-Oeste",
             "largos": "4",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"3": {
 			"nombre": "Directa Lucifer",
@@ -30,7 +54,15 @@
             "cara": "Sur-Oeste",
             "largos": "3",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"4": {
 			"nombre": "Placa maniaca",
@@ -38,7 +70,15 @@
             "cara": "Sur-Oeste",
             "largos": "2",
             "metros": "80",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"5": {
 			"nombre": "Chupacabras",
@@ -46,7 +86,15 @@
             "cara": "Sur-Oeste",
             "largos": "4",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"6": {
 			"nombre": "Pacto con el diablo",
@@ -54,7 +102,15 @@
             "cara": "Sur-Oeste",
             "largos": "6",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"7": {
 			"nombre": "La cola del diablo",
@@ -62,7 +118,15 @@
             "cara": "Sur-Oeste",
             "largos": "1",
             "metros": "50",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"9": {
 			"nombre": "La conexión",
@@ -70,7 +134,15 @@
             "cara": "Sur-Oeste",
             "largos": "2",
             "metros": "50",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"10": {
 			"nombre": "El pasadizo",
@@ -78,7 +150,15 @@
             "cara": "Sur-Oeste",
             "largos": "6",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"11": {
 			"nombre": "La fisura del lirón",
@@ -86,7 +166,15 @@
             "cara": "Sur-Oeste",
             "largos": "1",
             "metros": "50",
-            "equipacion": "Limpia"
+            "equipacion": "Limpia",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"12": {
 			"nombre": "Paloma",
@@ -94,7 +182,15 @@
             "cara": "Sur-Oeste",
             "largos": "5",
             "metros": "150",
-            "equipacion": "Limpia"
+            "equipacion": "Limpia",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"13": {
 			"nombre": "La rajada",
@@ -102,7 +198,15 @@
             "cara": "Sur-Oeste",
             "largos": "2",
             "metros": "70",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"14": {
 			"nombre": "Murciélagos",
@@ -110,7 +214,15 @@
             "cara": "Sur-Oeste",
             "largos": "6",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"15": {
 			"nombre": "Diosa Ra",
@@ -118,7 +230,15 @@
             "cara": "Sur-Oeste",
             "largos": "1",
             "metros": "40",
-            "equipacion": "Limpia"
+            "equipacion": "Limpia",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"16": {
 			"nombre": "Cara oculta de la Luna",
@@ -126,7 +246,15 @@
             "cara": "Sur",
             "largos": "5",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"17": {
 			"nombre": "Benito Borrero",
@@ -134,7 +262,15 @@
             "cara": "Sur",
             "largos": "3",
             "metros": "110",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"18": {
 			"nombre": "Borrero-Ortiz",
@@ -142,7 +278,15 @@
             "cara": "Sur",
             "largos": "6",
             "metros": "150",
-            "equipacion": "Limpia"
+            "equipacion": "Limpia",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"19": {
 			"nombre": "En la variante está el gusto",
@@ -150,7 +294,15 @@
             "cara": "Sur",
             "largos": "1",
             "metros": "50",
-            "equipacion": "Equipada"
+            "equipacion": "Equipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"20": {
 			"nombre": "Cabrero-Capri",
@@ -158,7 +310,15 @@
             "cara": "Sur",
             "largos": "5",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"21": {
 			"nombre": "Cobo",
@@ -166,7 +326,15 @@
             "cara": "Sur",
             "largos": "3",
             "metros": "150",
-            "equipacion": "Limpia"
+            "equipacion": "Limpia",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"22": {
 			"nombre": "Psicosis",
@@ -174,7 +342,15 @@
             "cara": "Sur",
             "largos": "3",
             "metros": "120",
-            "equipacion": "Equipada"
+            "equipacion": "Equipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"23": {
 			"nombre": "Brothers",
@@ -182,7 +358,15 @@
             "cara": "Sur",
             "largos": "3",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"24": {
 			"nombre": "La Guarra",
@@ -190,7 +374,15 @@
             "cara": "Sur",
             "largos": "4",
             "metros": "150",
-            "equipacion": "Limpia"
+            "equipacion": "Limpia",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"25": {
 			"nombre": "Chichi Chachi, Bingo Chungo",
@@ -198,7 +390,15 @@
             "cara": "Sur",
             "largos": "4",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"26": {
 			"nombre": "Julito",
@@ -206,7 +406,15 @@
             "cara": "Sur",
             "largos": "4",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"27": {
 			"nombre": "Julito (variante)",
@@ -214,7 +422,15 @@
             "cara": "Sur",
             "largos": "1",
             "metros": "50",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"28": {
 			"nombre": "Harakiri",
@@ -222,7 +438,15 @@
             "cara": "Sur",
             "largos": "4",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"29": {
 			"nombre": "Casera atómica",
@@ -230,7 +454,15 @@
             "cara": "Sur",
             "largos": "4",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"30": {
 			"nombre": "Rivas-Acuña",
@@ -238,7 +470,15 @@
             "cara": "Sur",
             "largos": "5",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"31": {
 			"nombre": "Titi (Guirles-Campos),",
@@ -246,7 +486,15 @@
             "cara": "Sur",
             "largos": "5",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"32": {
 			"nombre": "Raquel",
@@ -254,7 +502,15 @@
             "cara": "Sur",
             "largos": "1",
             "metros": "40",
-            "equipacion": "Limpia"
+            "equipacion": "Limpia",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"33": {
 			"nombre": "Thanatos",
@@ -262,7 +518,15 @@
             "cara": "Sur",
             "largos": "4",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"34": {
 			"nombre": "Doble Cero",
@@ -270,7 +534,15 @@
             "cara": "Sur",
             "largos": "4",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"35": {
 			"nombre": "La última oportunidad",
@@ -278,7 +550,15 @@
             "cara": "Sur",
             "largos": "3",
             "metros": "110",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"36": {
 			"nombre": "Piloto",
@@ -286,7 +566,15 @@
             "cara": "Sur",
             "largos": "5",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"37": {
 			"nombre": "Directa Harakiri",
@@ -294,7 +582,15 @@
             "cara": "Sur",
             "largos": "1",
             "metros": "50",
-            "equipacion": "Limpia"
+            "equipacion": "Limpia",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"38": {
 			"nombre": "Lola Flores",
@@ -302,7 +598,15 @@
             "cara": "Sur",
             "largos": "5",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"39": {
 			"nombre": "Senda",
@@ -310,7 +614,15 @@
             "cara": "Sur",
             "largos": "5",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"40": {
 			"nombre": "Unicornio azul",
@@ -318,7 +630,15 @@
             "cara": "Sur",
             "largos": "4",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"41": {
 			"nombre": "Chocolate",
@@ -326,7 +646,15 @@
             "cara": "Sur",
             "largos": "4",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"42": {
 			"nombre": "Trompeta o José Álvarez",
@@ -334,7 +662,15 @@
             "cara": "Sur",
             "largos": "5",
             "metros": "150",
-            "equipacion": "Equipada"
+            "equipacion": "Equipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"43": {
 			"nombre": "Licencia para matar",
@@ -342,7 +678,15 @@
             "cara": "Sur",
             "largos": "1",
             "metros": "50",
-            "equipacion": "Equipada"
+            "equipacion": "Equipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"44": {
 			"nombre": "Machaquito Pastor",
@@ -350,7 +694,15 @@
             "cara": "Sur",
             "largos": "4",
             "metros": "120",
-            "equipacion": "Equipada"
+            "equipacion": "Equipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"45": {
 			"nombre": "Esteban Altieri",
@@ -358,7 +710,15 @@
             "cara": "Sur",
             "largos": "4",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"46": {
 			"nombre": "Jose Manuel Alaiz",
@@ -366,7 +726,15 @@
             "cara": "Sur",
             "largos": "4",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"47": {
 			"nombre": "Diedro Loquillo",
@@ -374,7 +742,15 @@
             "cara": "Sur",
             "largos": "3",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"48": {
 			"nombre": "Los Pioneros",
@@ -382,7 +758,15 @@
             "cara": "Sur",
             "largos": "5",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"49": {
 			"nombre": "Brasas",
@@ -390,7 +774,15 @@
             "cara": "Sur",
             "largos": "1",
             "metros": "45",
-            "equipacion": "Limpia"
+            "equipacion": "Limpia",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"50": {
 			"nombre": "Claveles Rojos",
@@ -398,7 +790,15 @@
             "cara": "Sur",
             "largos": "6",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"51": {
 			"nombre": "Espolón de Manolín",
@@ -406,7 +806,15 @@
             "cara": "Sur",
             "largos": "6",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"52": {
 			"nombre": "Evolution Rock",
@@ -414,7 +822,15 @@
             "cara": "Sur",
             "largos": "5",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"53": {
 			"nombre": "Salamandra",
@@ -422,7 +838,15 @@
             "cara": "Sur",
             "largos": "5",
             "metros": "130",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"54": {
 			"nombre": "Cepillo Free",
@@ -430,7 +854,15 @@
             "cara": "Sur-Este",
             "largos": "4",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"55": {
 			"nombre": " Peter Pan",
@@ -438,7 +870,15 @@
             "cara": "Sur-Este",
             "largos": "4",
             "metros": "150",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"56": {
 			"nombre": "Durruti",
@@ -446,7 +886,15 @@
             "cara": "Sur-Este",
             "largos": "4",
             "metros": "150",
-            "equipacion": "Equipada"
+            "equipacion": "Equipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"57": {
 			"nombre": "Ezequiel-Domingo",
@@ -454,7 +902,15 @@
             "cara": "Sur-Este",
             "largos": "5",
             "metros": "150",
-            "equipacion": "Limpia"
+            "equipacion": "Limpia",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"58": {
 			"nombre": "Emilio",
@@ -462,7 +918,15 @@
             "cara": "Sur-Este",
             "largos": "2",
             "metros": "70",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"59": {
 			"nombre": "Pandemonium",
@@ -470,7 +934,15 @@
             "cara": "Sur-Este",
             "largos": "3",
             "metros": "110",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"60": {
 			"nombre": "Rosario",
@@ -478,7 +950,15 @@
             "cara": "Sur-Este",
             "largos": "3",
             "metros": "125",
-            "equipacion": "Equipada"
+            "equipacion": "Equipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"61": {
 			"nombre": "Fisura Chamonix",
@@ -486,7 +966,15 @@
             "cara": "Sur-Este",
             "largos": "3",
             "metros": "125",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"62": {
 			"nombre": "Bloodstar",
@@ -494,7 +982,15 @@
             "cara": "Sur-Este",
             "largos": "1",
             "metros": "50",
-            "equipacion": "Equipada"
+            "equipacion": "Equipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"63": {
 			"nombre": "18 los ojos",
@@ -502,7 +998,15 @@
             "cara": "Sur-Este",
             "largos": "3",
             "metros": "125",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"64": {
 			"nombre": "G.A.M. Peñalara",
@@ -510,7 +1014,15 @@
             "cara": "Sur-Este",
             "largos": "2",
             "metros": "140",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"65": {
 			"nombre": "Daniel Jiménez",
@@ -518,7 +1030,15 @@
             "cara": "Sur-Este",
             "largos": "3",
             "metros": "140",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"66": {
 			"nombre": "Ángela-Elena",
@@ -526,7 +1046,15 @@
             "cara": "Sur-Este",
             "largos": "3",
             "metros": "140",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"67": {
 			"nombre": "Bavaresa Blanca",
@@ -534,7 +1062,15 @@
             "cara": "Sur-Este",
             "largos": "3",
             "metros": "140",
-            "equipacion": "Semiequipada"
+            "equipacion": "Semiequipada",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"68": {
 			"nombre": "López-Muñoz",
@@ -542,7 +1078,15 @@
             "cara": "Sur-Este",
             "largos": "3",
             "metros": "140",
-            "equipacion": "Libre"
+            "equipacion": "Libre",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		},
 		"69": {
 			"nombre": "Diedro Ticupa",
@@ -550,7 +1094,15 @@
             "cara": "Sur-Este",
             "largos": "3",
             "metros": "140",
-            "equipacion": "Libre"
+            "equipacion": "Libre",
+            "estrellas": "1",
+            "crokis": "../data/vias/ezequiel.jpg",
+            "textoLargos": {
+                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
+                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
+                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
+                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+            }
 		}
 	}
 }
