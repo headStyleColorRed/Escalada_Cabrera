@@ -1,8 +1,9 @@
 import React from 'react'
 import { withRouter } from "react-router";
+import { IoIosStarOutline } from "react-icons/io"
 
- class ViaList extends React.Component {
-	constructor(){
+class ViaList extends React.Component {
+	constructor() {
 		super();
 		this.state = {}
 		this.showVia = this.showVia.bind(this)
@@ -10,12 +11,14 @@ import { withRouter } from "react-router";
 	showVia(event) {
 		this.props.history.push({
 			pathname: "/via",
-			search: `${event.nombre}`			
+			search: `${event.nombre}`
 		})
 	}
 	render() {
 		let via = this.props.bundle;
-
+		let estrellas = [];
+		for (let i = 0; i < via.estrellas; i++)
+			estrellas.push(<li key={i}><IoIosStarOutline color="#FE6B3F" fontSize="1.2rem" /></li>)
 
 
 		return (
@@ -25,7 +28,7 @@ import { withRouter } from "react-router";
 						<p className="via_temp_top_name">{via.nombre}</p>
 						<p className="via_temp_top_grade">{via.grado}</p>
 					</div>
-					<p className="via_temp_top_stars">O</p>
+					<div className="via_temp_top_stars">{estrellas}</div>
 				</div>
 				<div className="via_temp_bottom">
 					<p>{via.metros}m - {via.largos} largos</p>
@@ -39,5 +42,9 @@ import { withRouter } from "react-router";
 		)
 	}
 }
+
+
+
+
 
 export default withRouter(ViaList)

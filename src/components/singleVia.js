@@ -4,7 +4,7 @@ class SingleVia extends React.Component {
 	constructor(){
 		super();
 		this.state = {
-			stylings: "img_ampliada"
+			stylings: "thumbnail_foto_wrapper"
 		}
 		this.amplia_foto = this.amplia_foto.bind(this)
 	}
@@ -12,11 +12,8 @@ class SingleVia extends React.Component {
 	amplia_foto() {
 		if (this.state.stylings === "img_ampliada")
 			this.setState({stylings: "thumbnail_foto_wrapper"})
-		else{
-console.log("entra aquí")
+		else
 			this.setState({stylings: "img_ampliada"})
-		}
-		console.log(this.state.stylings)
 	}
 	render() {
 		let via = this.props.bundle

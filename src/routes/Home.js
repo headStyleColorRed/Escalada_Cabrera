@@ -1,5 +1,4 @@
 import React from 'react'
-import MyNavbar from "../components/Navbar.js"
 import SearchBar from "../components/SearchBar.js"
 import "../styles/home_styling.css"
 
@@ -24,7 +23,6 @@ export default class Home extends React.Component {
 
 		return (
 			<div className="home">
-				<MyNavbar />
 				<div className="home_top">
 					<div className="home_top_textWrapper">
 						<h3>La Cabrera</h3>
@@ -37,7 +35,9 @@ export default class Home extends React.Component {
 				<div className="home_viasPorGrado">
 					<div className="home_viasPorGrado_texto">
 						<p className="home_viasPorGrado_texto_titulo">Vías por grado</p>
-						<p className="home_viasPorGrado_texto_seeAll">See all...</p>
+						<p 
+						onClick={() => {this.props.history.push("/allRoutes")}}
+						className="home_viasPorGrado_texto_seeAll">See all...</p>
 					</div>
 					<div className="home_viasPorGrado_vias_template">
 						{grados_array}

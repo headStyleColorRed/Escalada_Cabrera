@@ -45,6 +45,13 @@
 
 .via_temp_top_stars{
 	justify-self: right;
+	display: grid;
+	grid-template-columns: repeat(3, auto);
+}
+
+
+.via_temp_top_stars li{
+	list-style-type: none;
 }
 
 .via_temp_bottom{
@@ -60,6 +67,7 @@
 .via_temp_hr{
 	border: 0.2px solid gray;
 }
+
 
 
 

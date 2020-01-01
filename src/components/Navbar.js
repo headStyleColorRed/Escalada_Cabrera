@@ -7,11 +7,6 @@ import {
 } from 'reactstrap';
 
 const MyNavbar = (props) => {
-	let [isOpen, setIsOpen] = useState(false);
-
-	let toggle = () => setIsOpen(!isOpen);
-
-
 	return (
 		<div>
 			<Navbar  expand="md" fixed="top">

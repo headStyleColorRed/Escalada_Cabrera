@@ -1,6 +1,7 @@
 import React from 'react'
 import vias_data from "../data/vias.json"
 import SingleVia from "../components/singleVia.js"
+import MyNavbar from "../components/Navbar.js"
 import "../styles/viaTemplate_styling.css"
 
 
@@ -29,6 +30,7 @@ export default class ViaTemplate extends React.Component {
 	render() {
 		return (
 			<div className="viaTemplate_wrapper">
+			<MyNavbar />
 				{this.state.via}
 			</div>
 		)
