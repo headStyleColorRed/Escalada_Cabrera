@@ -11,7 +11,7 @@
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
                 "0": "El primer largo, una placa de grano fino, sin duda el más complicado. Se puede hacer en A0 y a los pocos metros nos deja en una reunión con orientación a izquierdas.",
-                "1": "El segundo largo es un descanso del primero y nos acerca por una placa no muy complicada hasta la segunda reunión a los pies de un árbol.",
+                "1": "El segundo largo es un descanso del primero aunque tiene un paso de V en el que hay que buscar las manos. Luego nos acerca  hasta la segunda reunión a los pies de un árbol.",
                 "2": "Este tercer largo de transición tiene casi 60 metros y, si bien no es complicado, se disfruta de la fácil escalada y permite echar un vistazo al panorama.",
                 "3": "Este cuarto largo también tiene telita al pasar un bloque fisurado y desplomado que se pasa en artificial.",
                 "4": "Largo final por un diedro que nos deja en la cumbre. La reunión se monta laceando uno de los númerosos bloques de alrededor."
@@ -160,29 +160,15 @@
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "Via que Wimbor abrió pensando en la gente que disfruta de la mezcla de clásica y artifical en una misma vía. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+                "0": "Ruta que Wimbor abrió pensando en la gente que disfruta de la mezcla de clásica y artificial en una misma vía. Este primer largo empieza haciendo una C, al final de la cual tenemos un parabolt. A partir de aquí el largo va bastante recto. El paso de 6c se puede hacer en A1/6a de placa, aunque se puede acerar si vamos bien de grado.",
+                "1": "Bonito largo que empieza con unos pasos de adherencia de 6a que desembocan a los pies de una brecha. Hay un parabolt en la pared de enfrente que, para chapar, tendremos que bajar a un saliente. Una vez chapado avanzamos en artificial estos dos parabolts y luego ya se sale en libre. Una pequeña travesía a izquierdas y una fisura nos llevarán a la siguiente reunión",
+                "2": "Salida de V con orientación a izquierdas que nos deja a los pies de un techo con seis parabolts que superaremos en artificial. Atención al roce de cuerda para la salida en libre! Este largo se puede saltar siguiendo por el III+ de frente.",
+                "3": "Es un largo de transición que, atravesando varios espolones, nos deja a pie de la pared.",
+                "4": "Largo fino de regletillas donde la parte más complicada está al principio. Seguimos la línea de parabolts hasta llegar a un escalón que superaremos a base de bíceps para llegar a la reu.",
+                "5": "Tramo de artificial sin dificultades",
+                "6": "Seguimos hacia la izquierda donde veremos un parabolt. Si vamos justo de grado podemos hacerlo en artificial con algún paso en libre. Una vez en la reunión sólo nos queda la trepada final hasta la cima. Enhorabuena!"
             },
-            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
-		},
-		"15": {
-			"nombre": "Diosa Ra",
-            "grado": "6c+",
-            "cara": "Sur-Oeste",
-            "largos": "1",
-            "metros": "40",
-            "equipacion": "Limpia",
-            "estrellas": "1",
-            "crokis": "../data/vias/ezequiel.jpg",
-            "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            },
-            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas, cordinos y material de artificial. Todas las reuniones están montadas."
 		},
 		"16": {
 			"nombre": "Cara oculta de la Luna",
@@ -194,12 +180,14 @@
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+                "0": "Tener mucho mucho cuidado en las dos primeras chapas! empezamos a la derecha de las chapas y nos iremos hacia la izquierda. La mayor dificultad se encuentra en estos primeros pasos.",
+                "1": "Otro largo espectacular que comenzamos por un diedro que nos dejará a los pies de un techo de 6a+ que sortearemos por la izquierda. De aquí a la reu nos queda atravesar un espolón vertical de adherencia de 6a+.",
+                "2": "Tirada corta de V+ que tras sobrepasar la brecha de la izquierda nos deja al pie del muro de Artificial.",
+                "3": "Una fina fisura recorre este muro hasta llegar a una barriga donde nos esperan tres parabolts. La salida de la tripa se puede hacer en libre (6c) o A1. Para esta fisura necesitaremos aliens y pequeños empotradores.",
+                "4": "Una fina fisura recorre este muro hasta llegar a una barriga donde nos esperan tres parabolts. La salida de la tripa se puede hacer en libre (6c) o A1. Para esta fisura necesitaremos aliens y pequeños empotradores. Una vez fuera seguimos por una canal hasta un parabolt que ya nos dejará en la reu tras una plaquita de IV",
+                "5": "Largo final que nos deja en la cumbre. Tiene dos parabolts que nos guían hasta la cima de un gran bloque del cual destreparemos por la parte posterior para montar la última reu en un árbol."
             },
-            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas, cordinos y material de artificial. Todas las reuniones están montadas salvo la última."
 		},
 		"17": {
 			"nombre": "Benito Borrero",
@@ -211,12 +199,11 @@
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+                "0": "Vía algo sucia por falta de repeticiones, pero no por eso menos bonita. La vía termina en el tercer largo del cual podremos rapelar o empalmar con otra vía. La escalada empieza a los pies de un pequeño monolito que, una vez superado, nos deja enfrente del primer parabolt. Seguimos la línea de parabolts buscando las debilidades de pared y tras atravesar una panza en artificial salimos por una placa a la primera reunión.",
+                "1": "Salimos por una placa con orientación a izquierdas hasta encontrarnos una fisura encima de la cual hay un parabolt. Subiremos en vertical hasta encontrar los siguientes parabolts que nos guían de nuevo a la izquierda hasta ponernos al pie de un diedro de 6b que nos acercará a la reunión.",
+                "2": "Este último largo empieza por una fisura que da pie a un muro del que saldremos chapando un parabolt. Subimos por la placa hasta la pared de la cara oculta de luna que sortearemos por la izquierda."
             },
-            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos y material de artificial. Todas las reuniones están montadas."
 		},
 		"18": {
 			"nombre": "Borrero-Ortiz",
@@ -228,27 +215,7 @@
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            },
-            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
-		},
-		"19": {
-			"nombre": "En la variante está el gusto",
-            "grado": "6c",
-            "cara": "Sur",
-            "largos": "1",
-            "metros": "50",
-            "equipacion": "Equipada",
-            "estrellas": "1",
-            "crokis": "../data/vias/ezequiel.jpg",
-            "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+                "0": "No disponemos aún de información sobre esta vía. En las próximas actualizaciones será descrita. Gracias por la comprensión."
             },
             "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
@@ -262,10 +229,7 @@
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+                "0": "No disponemos aún de información sobre esta vía. En las próximas actualizaciones será descrita. Gracias por la comprensión."
             },
             "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
@@ -273,18 +237,16 @@
 			"nombre": "Cobo",
             "grado": "6b",
             "cara": "Sur",
-            "largos": "3",
+            "largos": "2",
             "metros": "150",
             "equipacion": "Limpia",
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+                "0": "Tremenda vía totalmente desequipada que comienza con un primer largo que, tras alcanzar un techo, lo sortea por la derecha y sube recto por un diedro hasta la primera reunión.",
+                "1": "El segundo largo sale por una placa a izquierdas que nos dejará a los pies de una canal. Sortearemos ésta por el espolón de la izquierda que tras una placa de V+ nos deja en la última reunión. Aquí tendremos la opción de continuar por la cabrero-capri o por la psicosis entre otras."
             },
-            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos."
 		},
 		"22": {
 			"nombre": "Psicosis",
@@ -296,12 +258,12 @@
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+                "0": "Primer largo de de 6b+ que se puede hacer en A0 con pasos en libre de 6b. Sube recto hasta un árbol dónde nos cruzaremos hasta alcanzar un muro. Allí subiremos por la fisura hasta que superamos un pequeño escalón que nos deja en una placa final.",
+                "1": "Este segundo largo más relajado pero que aún aprieta sale primero a izquierdas para encara de frente la fina placa que, a medida que ascendemos, se va suavizando. Encontraremos la reu a nuestra izquierda.",
+                "2": "El largo más duro de la vía, completamente limpio y vertical sale de 7b/7b+, y encara de frente el espolón. Se puede acerar y nos saldría de 6b+",
+                "3": "Largo muy bonito, vertical y aéreo de setas que sale de 6a+. Empieza con un pequeño desplome que sorteamos por las pequeñas setas de la derecha mientras que chapamos por la izquierda. El largo va tumbando según nos acercamos al final de la vía. tenemos una trepada sencilla final para llegar a la cima que podemos hacerla encordados."
             },
-            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos y material de artificial. Todas las reuniones están montadas."
 		},
 		"23": {
 			"nombre": "Brothers",
