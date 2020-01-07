@@ -252,7 +252,7 @@
 			"nombre": "Psicosis",
             "grado": "6c/A0 (7b)",
             "cara": "Sur",
-            "largos": "3",
+            "largos": "4",
             "metros": "120",
             "equipacion": "Equipada",
             "estrellas": "1",
@@ -275,10 +275,9 @@
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+                "0": "Este primer largo lo haremos por una fisura que al principio no tiene mucha complicación pero a medida que superamos el ecuador del largo se complica. La fisura tiene una orientación a derechas y fuera de la fisura hay poco agarre que utilizar.",
+                "1": "Sale hacia la canal de la derecha y tras unas placas acabamos en una canal algo herbosa que nos deja en la reunión.",
+                "2": "Este último largo sigue la canal y sorteando bloques acaba llegando al bloque cimero. Quizás algo sucia esta canal, se puede escapar por la derecha buscando un parabolt."
             },
             "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
@@ -292,10 +291,9 @@
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+                "0": "Vía poco repetida que aprovecha las debilidades de la roca para ir cogiendo metros. Sube por una canal bastante sucia hasta llegar a un parabolt donde nos iremos hacia nuestra derecha para buscar la reunión de la Rivas-Acuña.",
+                "1": "Chimenea no muy complicada, algo sucia de vegetación pero fácil de proteger. Comparte largo con la Rivas-Acuña",
+                "2": "Último largo que sube por otra canal de nuevo no muy limpia pero que, por la escasa dificultad del largo, no complica el progreso. Al finalizar la canal nos salimos a una placa con orientación a izquierdas que nos dejará en los bloques cimeros."
             },
             "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
@@ -309,10 +307,10 @@
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+                "0": "Sale por una canal que, tras bordear un bloque nos deja en un escalón/barriga donde tenemos un clavo oxidado pero se puede 'malmeter' también un alien más psicológico que otra cosa. Una vez superada la panza nos metemos en una placa con parabolts que nos deja en la reunión.",
+                "1": "Sube por una fisura algo musgosa de la que saldremos con orientación a izquierdas para ir progresando por una placa hasta la segunda reunión compartida con la Harakiri.",
+                "2": "Ataca de frente la pared por una fisura ciega de Ae que haremos en artifical para salir por una fisura de 7a. Se puede escaquear por la canal izquierda de la Harakiri.",
+                "3": "Terminamos el último largo por una canal de V+ que nos dejará en los bloques cimeros."
             },
             "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
@@ -326,27 +324,10 @@
             "estrellas": "3",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
-            },
-            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
-		},
-		"27": {
-			"nombre": "Julito (variante)",
-            "grado": "V+",
-            "cara": "Sur",
-            "largos": "1",
-            "metros": "50",
-            "equipacion": "Semiequipada",
-            "estrellas": "1",
-            "crokis": "../data/vias/ezequiel.jpg",
-            "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+                "0": "Subimos por la placa, estando la primera chapa a unos 7 metros del suelo. Seguimos subiendo y, una vez protegido el diedro, procedemos a subirlo en bavaresa. Una vez superado llegamos a la primera reunión.",
+                "1": "Brutal y preciosa placa de 6a+ a la que llegamos tras superar una grieta de IV+ de varios metros y echarnos a nuestra izquierda. La placa nos deja en la tercera reunión. A disfrutar!",
+                "2": "Salimos un muro bastante vertical con rugosidades y nos subimos a un espolón a nuestra izquierda que nos lleva a un techo/anza con buenos agarres. Nos enfrentamos a los pocos metros a otra panza algo más complicadilla pero que sale sin problemas.",
+                "3": "Hay que cruzar la canal a la derecha hasta situarnos debajo de una grieta vertical. Se protege bien y nos deja en una placa que nos acabará llevando a los bloques cimeros por los que navegaremos hasta la cumbre."
             },
             "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
@@ -360,10 +341,10 @@
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+                "0": "El primer largo no es muy repetido por lo sucio que está y lo poco que se repite. Cada cierto tiempo se limpia y pusieron unos parabolts para proteger mejor y popularizar este largo. Se suele sustituir por el primer largo de la Casera Atómica.",
+                "1": "Ascendemos por un muro de ñapitas hasta alcanzar a mano derecha un diedro en el que podremos meter un par de piezas antes de salir del muro y llegar a la reu.",
+                "2": "Aquí, en vez de encarar el muro -que sería la Chechi Chachi bingo chungo Ae/7a- subimos un poco y hacemos travesía hasta la canal de la izquierda. Trepamos la canal hasta la reunión.",
+                "3": "Salimos de frente hasta encontrar unos bloques que, una vez superados, nos dejan en la cima."
             },
             "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
@@ -371,16 +352,15 @@
 			"nombre": "Casera atómica",
             "grado": "6b",
             "cara": "Sur",
-            "largos": "4",
+            "largos": "3",
             "metros": "150",
             "equipacion": "Semiequipada",
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+                "0": "Sube por una grieta para luego seguir un pequeño diedro/laja fácil de proteger que siguiéndolo nos deja en la reunión.",
+                "1": "Duro largo de 6b. Los primeros metros son una aproximación al muro al cual nos enfrentaremos de cara. Una vez superado nos quedan unos metros para llegar a la reu que podemos proteger con un friend en la fisura de nuestra derecha.",
+                "2": "Último largo que empieza por un muro que nos deja en un sistema de fisuras verticales. Seguimos subiendo pasando por una canal/placa con varios parabolts que desemboca en una rara chimenea por la que progresaremos como mejor podamos hasta superarla y finalmente, tras sortear los bloques cimeros, llegar a la cumbre."
             },
             "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
@@ -388,21 +368,21 @@
 			"nombre": "Rivas-Acuña",
             "grado": "V",
             "cara": "Sur",
-            "largos": "5",
+            "largos": "4",
             "metros": "150",
             "equipacion": "Semiequipada",
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+                "0": "Se suele comenzar por la Casera Atómica hasta llegar a la primera chapa, y de ahí travesía de unos pasos a derechas para llegar a la fisura de la Rivas-Acuña. La reunión se encuentra el vertical de esta fisura.",
+                "1": "Largo de unos 30 metros que sale por una bavaresa que nos dejara a los pies de un muro del que escaparemos haciendo una fina travesía sin manos hacia la izquierda, donde nos encontraremos la tercera reunión.",
+                "2": "Este tercer largo se hace por una chimenea algo sucia pero fácil de proteger con buenos pies que nos deja en la tercera reu.",
+                "3": "Este largo continua la chimenea que llevábamos en el tercer largo hasta eventualmente irnos saliendo a la izquierda hasta llegar a una placa musgosa con un arbolito al final donde montaremos reunión. De ahí nos queda ya una simple treapada por los bloques cimeros."
             },
             "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
 		},
 		"31": {
-			"nombre": "Titi (Guirles-Campos),",
+			"nombre": "Guirles-Campos",
             "grado": "6b/Ae",
             "cara": "Sur",
             "largos": "5",
@@ -411,12 +391,13 @@
             "estrellas": "1",
             "crokis": "../data/vias/ezequiel.jpg",
             "textoLargos": {
-                "0": "They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the console in faded pinks and yellows. ",
-                "1": "She peered at the rear of the arcade showed him broken lengths of damp chipboard and the dripping chassis of a gutted game console.",
-                "2": "A graphic representation of data abstracted from the missionaries, the train reached Case’s station. It was disturbing to think of the Flatline as a gliding cursor struck sparks from the missionaries.",
-                "3": "  None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a service hatch framed a heap of discarded fiber optics and the chassis of a junked console."
+                "0": "Se suele comenzar por la Casera Atómica hasta llegar a la primera chapa, y de ahí travesía de unos pasos a derechas para llegar a la fisura de la Rivas-Acuña. La reunión se encuentra el vertical de esta fisura. La vía original va pegada al diedro de la derecha, pero ve pocas repeticiones por la extensa vegetación.",
+                "1": "Subimos por una placa hasta alcanzar la base del techo donde nos encontraremos cinco parabolts para sortearlo. Una vez de pie tenemos unos pasos de 6a que nos dejan en una fisura horizontal donde, montando un par de friends, podemos hacer travesía a derechas para llegar a la reunión.",
+                "2": "Dando varios pasos de adherencia nos colocamos en una serie de fisuras que, tras pasar un arbolito, sigue subiendo hasta que hacemos una travesía a derechas para llegar a la tercera reunión.",
+                "3": "Salimos hacia la izquierda superando varios paños de granito blanco para llegar a un nicho que, en su pared izquierda, tine una fisura de media luna que lo atraviesa. Subimos por ésta hasta alcanzar la vertical del techo que sobrepasaremos con un paso de 6b o aprovechando un friend para hacerlo en A1.",
+                "4": "Último largo de cortesía por una placa y luego con orientación a izquierdas nos movemos entre varios bloques. La reunión se monta laceando uno de los númerosos bloques de la cima"
             },
-            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos. Todas las reuniones están montadas, salvo la última."
+            "material": "Un juego de Friends (hasta el 4 de Camalot), cintas y cordinos y material de artificial. Todas las reuniones están montadas, salvo la última."
 		},
 		"32": {
 			"nombre": "Raquel",
